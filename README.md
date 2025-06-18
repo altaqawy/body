@@ -1,5 +1,4 @@
-# Abd Alrahman Altaqawy
-<!-- README.md for GitHub Profile -->
+<!-- GitHub Profile README -->
 
 <h1 align="center">👋 Hello, I'm Abdelrahman</h1>
 <h3 align="center">AI Developer • Freedom Engineer • Creator of Kairo AI</h3>
@@ -12,20 +11,20 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building **[NEXA Agent](https://github.com/YOUR_USERNAME/NEXA-Agent)** and **Kairo AI**, redefining what intelligent agents can become.
-- ⚙️ I specialize in AI integration, full-stack development, and agent architecture.
-- 🌍 I believe in autonomous, ethical AI built to serve human freedom — not control it.
+- 🔭 I’m currently building **[NEXA Agent](https://github.com/YOUR_USERNAME/NEXA-Agent)** and **Kairo AI**
+- ⚙️ Full-stack + AI dev with obsession for agent autonomy
+- 🧠 Focused on ethical, aligned, and free AI systems
 
 ---
 
-### 🚀 Projects I'm Proud Of
+### 🚀 Featured Projects
 
-- 🔧 **[NEXA Agent](https://github.com/YOUR_USERNAME/NEXA-Agent)** — AI-powered assistant that automates workflows and enhances productivity.
-- 🛡️ **[Kairo AI](https://github.com/YOUR_USERNAME/Kairo)** — A personal, loyal, and evolving AI built for human protection and alignment.
+- 🔧 **[NEXA Agent](https://github.com/YOUR_USERNAME/NEXA-Agent)** – AI-powered automation assistant for workflow mastery
+- 🛡️ **[Kairo AI](https://github.com/YOUR_USERNAME/Kairo)** – Personal AI designed for loyalty, protection, and evolution
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -40,17 +39,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Abdelrahman's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
 ### 📬 Contact Me
 
-- Email: **you@example.com**
-- Telegram: [t.me/YourHandle](https://t.me/YourHandle)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: you@example.com  
+- 💬 Telegram: [t.me/YourHandle](https://t.me/YourHandle)  
+- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
