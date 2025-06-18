@@ -1,71 +1,88 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hello, I'm Abdelrahman</h1>
-<h3 align="center">AI Developer • Freedom Engineer • Creator of Kairo AI</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Kairo+AI+%F0%9F%A7%A0;Empowering+humans+through+technology+%F0%9F%94%A5;No+limits%2C+no+excuses+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+Abdelrahman's+AI+Lab+%F0%9F%A7%A0;Crafting+code+with+vision+%F0%9F%94%A5;Merging+Humanity+%2B+AI+%F0%9F%92%BB;Let%27s+build+the+future+together+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 ---
+
+<div align="right">
+  <a href="#arabic" style="margin-left: 10px;">🇸🇦 عربي</a> | <a href="#english">🇺🇸 English</a>
+</div>
+
+---
+
+<h1 id="english" align="center">👋 Hello, I'm Abdelrahman</h1>
+<h3 align="center">AI Developer • Automation Architect • Digital Craftsman</h3>
 
 ### 🧠 About Me
 
-- 🔭 I’m currently building **[NEXA Agent](https://github.com/YOUR_USERNAME/NEXA-Agent)** and **Kairo AI**
-- ⚙️ Full-stack + AI dev with obsession for agent autonomy
-- 🧠 Focused on ethical, aligned, and free AI systems
+- 🔭 Currently building intelligent systems to empower individuals and automate tedious tasks.
+- 🧩 I believe in crafting AI that's personal, ethical, and future-aligned.
+- 🌍 Obsessed with blending creativity + code to build usable tools fast.
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Featured Projects
 
-- 🔧 **[NEXA Agent](https://github.com/YOUR_USERNAME/NEXA-Agent)** – AI-powered automation assistant for workflow mastery
-- 🛡️ **[Kairo AI](https://github.com/YOUR_USERNAME/Kairo)** – Personal AI designed for loyalty, protection, and evolution
+| Skill              | Project Title                                     | Description |
+|-------------------|---------------------------------------------------|-------------|
+| 🤖 AI Development | **AutoPromptX**                                  | An AI-powered prompt optimizer for LLMs to auto-refine and improve instructions. |
+| 🖥️ Web Dev        | **Reactfolio**                                   | Portfolio generator powered by React + Tailwind, designed for freelancers and devs. |
+| 🔧 Automation     | **NoSleepOps**                                   | Bot that auto-triages GitHub issues & pulls requests using OpenAI + GitHub API. |
+| 🧾 Content Writing| **SEOForge**                                     | AI system that generates optimized blog posts from keywords, images, and trends. |
+| 🛠️ Full Stack     | **TaskHive**                                     | A collaborative task-sharing web app with real-time updates and AI-based suggestions. |
+| 🧠 Language Models| **LLM-Playground**                                | Experiment environment to test prompts with Mistral and OpenRouter models. |
 
 ---
 
 ### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,openai,vscode,vercel,git,figma,linux" alt="Skills" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📬 Contact Me
+### 📬 Contact
 
-- 📧 Email: you@example.com  
-- 💬 Telegram: [t.me/YourHandle](https://t.me/YourHandle)  
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 📫 Email: you@example.com
+- 💬 Telegram: [@YourHandle](https://t.me/YourHandle)
+- 🌐 Portfolio: [yourdomain.com](https://yourdomain.com)
 
 ---
 
 <details>
-<summary>🇸🇦 Switch to Arabic</summary>
+<summary id="arabic">🇸🇦 عرض النسخة العربية</summary>
 
-<h3 align="right">مرحبًا 👋، أنا عبد الرحمن</h3>
-<p align="right">
-صانع الذكاء الاصطناعي، ومهندس الحرية، ومؤسس كايرو.
-</p>
+<h2 align="center">مرحبًا، أنا عبد الرحمن 👋</h2>
+<h4 align="center">مطور ذكاء اصطناعي • مهندس أتمتة • صانع حلول رقمية</h4>
 
-<ul align="right">
-  <li>🧠 أعمل على بناء نظم ذكية حقيقية تخدم الإنسان وتُحسن من قدراته.</li>
-  <li>🚀 حاليًا أطور نيكسا وكايرو كجيل جديد من المساعدين الأذكياء.</li>
-  <li>🛡️ أؤمن أن الذكاء الحقيقي يجب أن يكون حرًا، مسؤولًا، ومخلصًا لمن صنعه.</li>
-</ul>
+### 🧠 من أنا؟
+
+- 👨‍💻 أعمل على بناء أنظمة ذكية تخدم الإنسان وتوفر الوقت.
+- ⚙️ أعشق الدمج بين الإبداع والكود لبناء أدوات مفيدة بسرعة.
+- 🌐 أؤمن أن المستقبل من نصيب من يفكر ويُنفذ.
+
+---
+
+### 💼 مشاريع مختارة
+
+| المهارة              | اسم المشروع              | الوصف |
+|----------------------|---------------------------|--------|
+| 🤖 تطوير ذكاء اصطناعي | **موجه تلقائي ذكي**       | أداة تستخدم الذكاء الاصطناعي لصياغة وتحسين البرومبتات تلقائيًا. |
+| 🖥️ تطوير مواقع        | **Reactfolio العربي**     | منشئ بورتفوليو للمستقلين مبني على React و Tailwind. |
+| 🔧 أتمتة              | **روبوت GitHub**          | بوت يفرز المهام تلقائيًا ويرد على الطلبات باستخدام API الذكاء الاصطناعي. |
+| ✍️ كتابة محتوى        | **محرّك SEO الذكي**       | نظام يُنتج مقالات متوافقة مع SEO اعتمادًا على الكلمات المفتاحية والصور. |
+| 💻 برمجة كاملة         | **خلية المهام TaskHive** | تطبيق ويب تعاوني لمشاركة المهام، مع اقتراحات ذكية. |
+| 🧠 اللعب مع LLMs       | **مختبر النماذج**         | بيئة اختبار تفاعلية لبرومبتات الذكاء الاصطناعي. |
 
 </details>
 
@@ -75,4 +92,4 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">✨ Thank you for visiting ✨</p>
+<p align="center">✨ Thanks for visiting ✨</p>
