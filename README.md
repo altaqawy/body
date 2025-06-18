@@ -56,9 +56,15 @@
 
 ### 📬 Contact
 
-- 📫 Email: you@example.com
-- 💬 Telegram: [@YourHandle](https://t.me/YourHandle)
-- 🌐 Portfolio: [yourdomain.com](https://yourdomain.com)
+- 📫 Email: altaqawy@gmail.com
+- 💬 Telegram: [@altaqawy](https://t.me/altaqawy)
+- 🌐 Portfolio: [altaqawy.github.io](https://altaqawy.github.io)
+
+<p align="center">
+  <a href="https://altaqawy.github.io/assets/Abdelrahman-CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download_CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV" />
+  </a>
+</p>
 
 ---
 
