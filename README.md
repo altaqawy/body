@@ -21,12 +21,15 @@
 
 | Skill              | Project Title                                     | Description |
 |-------------------|---------------------------------------------------|-------------|
-| 🤖 AI Development | **AutoPromptX**                                  | An AI-powered prompt optimizer for LLMs to auto-refine and improve instructions. |
-| 🖥️ Web Dev        | **Reactfolio**                                   | Portfolio generator powered by React + Tailwind, designed for freelancers and devs. |
-| 🔧 Automation     | **NoSleepOps**                                   | Bot that auto-triages GitHub issues & pulls requests using OpenAI + GitHub API. |
-| 🧾 Content Writing| **SEOForge**                                     | AI system that generates optimized blog posts from keywords, images, and trends. |
-| 🛠️ Full Stack     | **TaskHive**                                     | A collaborative task-sharing web app with real-time updates and AI-based suggestions. |
-| 🧠 Language Models| **LLM-Playground**                                | Experiment environment to test prompts with Mistral and OpenRouter models. |
+| 🤖 AI Agent        | **Kairo**                                         | A personal AI system with memory, control, and emotional simulation. |
+| 🌐 Web Platform     | **NEXA Agent**                                    | Full-stack AI automation platform for managing daily workflows. |
+| 🧠 NLP              | **Tafsir AI**                                     | Arabic-focused AI that interprets religious and historical texts. |
+| 🎨 UI Engineering   | **FramerX Studio**                                | High-end landing page and motion animation system using Framer + Tailwind. |
+| ⚡ DevOps Automation| **NoSleepOps**                                   | Autonomous CI/CD task runner and system reporter. |
+| 📈 Analytics AI     | **InsightPulse**                                  | AI tool that summarizes dashboards and gives human-like performance advice. |
+| 🧾 Content Writing  | **SEOForge**                                     | AI system that generates optimized blog posts from keywords, images, and trends. |
+| 🛠️ Full Stack      | **TaskHive**                                     | A collaborative task-sharing web app with real-time updates and AI-based suggestions. |
+| 🧠 LLM Playground   | **Nova PromptLab**                                | Prompt testing sandbox with auto-evaluation powered by Mistral + OpenAI. |
 
 ---
 
@@ -47,45 +50,9 @@
 
 ### 📬 Contact
 
-- 📫 Email: you@example.com
+- 📫 Email: altaqawy2023@gmail.com
 - 💬 Telegram: [@YourHandle](https://t.me/YourHandle)
 - 🌐 Portfolio: [yourdomain.com](https://yourdomain.com)
-
----
-
-### 🌀 Live Particle Animation
-
-> ✨ Here's a full working example of the **particle text animation** effect using React, Canvas, and custom animation logic:
-
-```tsx
-"use client"
-
-import { useRef, useEffect, useState } from "react"
-
-export default function ParticleCanvas() {
-  const canvasRef = useRef<HTMLCanvasElement>(null)
-  const [isMobile, setIsMobile] = useState(false)
-
-  useEffect(() => {
-    const canvas = canvasRef.current
-    if (!canvas) return
-    const ctx = canvas.getContext("2d")
-    if (!ctx) return
-    // Canvas resizing logic, particle setup, animation loop, mouse interaction
-    // [FULL PARTICLE CODE GOES HERE — trimmed in README for brevity]
-  }, [])
-
-  return (
-    <div className="relative w-full h-dvh bg-black">
-      <canvas ref={canvasRef} className="absolute inset-0 w-full h-full" />
-    </div>
-  )
-}
-```
-
-🔗 View full source code here: [Particle Canvas Repo](https://github.com/YOUR_USERNAME/particle-canvas-demo)
-
-💡 Tip: You can embed this as a full-screen animation in your portfolio site background.
 
 ---
 
