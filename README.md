@@ -47,8 +47,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-![altaqawy's Stats](https://github-readme-stats.vercel.app/api?username=altaqawy&theme=dark&show_icons=true&hide_border=true&count_private=true)</p>
+<img src="https://github-readme-stats.vercel.app/api?username=altaqawy&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
 
 ---
 
