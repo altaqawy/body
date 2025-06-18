@@ -19,23 +19,29 @@
 
 ### 💼 Featured Projects
 
-| Skill              | Project Title                                     | Description |
-|-------------------|---------------------------------------------------|-------------|
-| 🤖 AI Agent        | **Kairo**                                         | A personal AI system with memory, control, and emotional simulation. |
-| 🌐 Web Platform     | **NEXA Agent**                                    | Full-stack AI automation platform for managing daily workflows. |
-| 🧠 NLP              | **Tafsir AI**                                     | Arabic-focused AI that interprets religious and historical texts. |
-| 🎨 UI Engineering   | **FramerX Studio**                                | High-end landing page and motion animation system using Framer + Tailwind. |
-| ⚡ DevOps Automation| **NoSleepOps**                                   | Autonomous CI/CD task runner and system reporter. |
-| 📈 Analytics AI     | **InsightPulse**                                  | AI tool that summarizes dashboards and gives human-like performance advice. |
-| 🧾 Content Writing  | **SEOForge**                                     | AI system that generates optimized blog posts from keywords, images, and trends. |
-| 🛠️ Full Stack      | **TaskHive**                                     | A collaborative task-sharing web app with real-time updates and AI-based suggestions. |
-| 🧠 LLM Playground   | **Nova PromptLab**                                | Prompt testing sandbox with auto-evaluation powered by Mistral + OpenAI. |
+| Skill              | Project Title            | Description |
+|-------------------|--------------------------|-------------|
+| 🌐 Web Platform     | **NEXA Agent**            | Full-stack AI automation platform for managing daily workflows. |
+| 🧠 NLP              | **Tafsir AI**             | Arabic-focused AI that interprets religious and historical texts. |
+| 🎨 UI Engineering   | **FramerX Studio**        | High-end landing page and motion animation system using Framer + Tailwind. |
+| ⚡ DevOps Automation| **NoSleepOps**           | Autonomous CI/CD task runner and system reporter. |
+| 📈 Analytics AI     | **InsightPulse**          | AI tool that summarizes dashboards and gives human-like performance advice. |
+| 🧾 Content Writing  | **SEOForge**             | AI system that generates optimized blog posts from keywords, images, and trends. |
+| 🛠️ Full Stack      | **TaskHive**             | A collaborative task-sharing web app with real-time updates and AI-based suggestions. |
+| 🧠 LLM Playground   | **Nova PromptLab**        | Prompt testing sandbox with auto-evaluation powered by Mistral + OpenAI. |
+| 💼 Freelance Tools  | **Rawnak Store**          | E-commerce store with dynamic shipping, giveaways, and multi-language support. |
+| 📊 Visualization    | **DashJet**               | Interactive dashboard builder with AI recommendations and export tools. |
+| 🎙️ Audio AI         | **TafsirVoice**           | Arabic voice-based QA system using Whisper + GPT fine-tuning. |
+| 🧠 AI Agents        | **JARVIS-Lite**           | Minimal self-hosted assistant that runs tasks, reminders, and summaries. |
+| 📤 Webhooks / APIs  | **HookNode**              | Serverless no-code platform to connect services via smart webhook flows. |
+| 💡 Code Generation | **AutoBuilder**           | Converts user prompts into deployable React apps using templates + AI. |
+| 📦 CMS Integration | **ContentCrafter**        | Next.js + Headless CMS system to create and publish articles with AI enrichment. |
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,openai,vscode,vercel,git,figma,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,openai,vscode,vercel,git,figma,linux,react,python,nodejs,docker" alt="Skills" />
 </p>
 
 ---
@@ -50,7 +56,7 @@
 
 ### 📬 Contact
 
-- 📫 Email: altaqawy2023@gmail.com
+- 📫 Email: you@example.com
 - 💬 Telegram: [@YourHandle](https://t.me/YourHandle)
 - 🌐 Portfolio: [yourdomain.com](https://yourdomain.com)
 
