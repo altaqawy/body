@@ -48,8 +48,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=altaqawy&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=altaqawy&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
